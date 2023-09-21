@@ -1,6 +1,5 @@
-# React mini project 7 with MaterialUI - Multi-Step Form
-React Unsplash Clone: A React application allowing users to search images by typing keywords into a search input, providing a experience similar to Unsplash. Concepts used - Fetch and 
-Display Data from API, keydown event and useState hook.
+# React mini project 7 with Material-UI - Multi-Step Form
+React Multi-Step Form: A multi-step form application using React and Material-UI. Easily navigate through required input fields, receive a confirmation prompt, and a success message at last. Includes modal pop-up for incomplete entries.
 
 ## Demo Link - https://fill-my-form.netlify.app/
 
