@@ -1,4 +1,4 @@
-# React mini project 7 with Material-UI - Multi-Step Form
+# React mini project 7 with MaterialUI - Multi-Step Form
 React Multi-Step Form: A multi-step form application using React and Material-UI. Easily navigate through required input fields, receive a confirmation prompt, and a success message at last. Includes modal pop-up for incomplete entries.
 
 ## Demo Link - https://fill-my-form.netlify.app/
