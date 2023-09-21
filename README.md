@@ -3,7 +3,7 @@ React Multi-Step Form: A multi-step form application using React and Material-UI
 
 ## Demo Link - https://fill-my-form.netlify.app/
 
-## Screenshots - 
+## Screenshots -
 
 <img width="485" alt="Screenshot 2023-09-22 at 12 30 31 AM" src="https://github.com/praduman20/MultiStep-form-React-mini-project-7-with-MUI/assets/87388316/9eefcfe1-66e9-4372-b362-453b59bbd44a">
 
